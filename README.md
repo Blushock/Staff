@@ -5,9 +5,12 @@ This contains all the needed information for how to be an effective staff member
 ## Interacting on main
 As Staff, you are expected to interact with other people, troops and staff alike, on main chat.
 
-### Optimization
-- Don't let any troop feel ignored. Even saying hi and/or how are you goes a long way.
+### Conversation
+- Don't let any troop feel ignored. 
   - Make sure to say hi/bye to troops when they leave.
+- Figure out what people are already talking about and join in. If it's appropriate, of course.
+  - If not, change the subject.
+- -topic is great for chat revival.
   
 ### Muting
 - The syntax for muting is !mute username length of time reason (optional)
