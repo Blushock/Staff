@@ -38,8 +38,8 @@ Come up with new servers to recruit from, along with new strategies for recruiti
 Some of the best servers to recruit from include, but aren't limited to...
 
 ### Roblox
--Roblox Verify
--Roblox Islands
+- Roblox Verify
+- Roblox Islands
 
 
 ## Monthly Events
