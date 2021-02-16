@@ -3,7 +3,11 @@ This contains all the needed information for how to be an effective staff member
 
 # General responsibilities
 ## Interacting on main
-Talking with fellow staff members in Staff Chat is allowed. Why else would we have it? However, it is expextedc that Staff Chat does not become the only place where you converse.
+As Staff, you are expected to interact with other people, troops and staff alike, on main chat.
+
+Some tips for doing so optimally are...
+-Don't let any troop feel ignored. Even saying hi and/or how are you goes a long way.
+  -Make sure to say hi/bye to troops when they leave.
 
 ## Recruiting
 Recruiting is our primary method of increasing the size of the server. As such, making yourself a standout recruiter will bring great fortune your way.
