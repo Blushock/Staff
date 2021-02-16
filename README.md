@@ -10,6 +10,16 @@ Recruiting is our primary method of increasing the size of the server. As such, 
 
 # Game Divisions
 
+## Minecraft
+
+## Roblox
+
+## Among Us
+
+## Voice Game Division
+
+## Misc Games
+
 # Branches
 
 ## SIT Teachers
@@ -24,6 +34,13 @@ Create graphics to be used for various purposes. These include:
 
 ## IWRR Developers
 Come up with new servers to recruit from, along with new strategies for recruiting.
+
+Some of the best servers to recruit from include, but aren't limited to...
+
+### Roblox
+-Roblox Verify
+-Roblox Islands
+
 
 ## Monthly Events
 
