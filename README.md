@@ -11,6 +11,8 @@ As Staff, you are expected to interact with other people, troops and staff alike
 - Figure out what people are already talking about and join in. If it's appropriate, of course.
   - If not, change the subject.
 - -topic is great for chat revival.
+- If talking to a specifc troop, check mutual servers for potential conversation topics.
+  - Ex: If they're also in Halo, we can talk about that. 
   
 ### Muting
 - The syntax for muting is !mute username length of time reason (optional)
