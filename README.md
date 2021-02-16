@@ -13,7 +13,7 @@ Recruiting is our primary method of increasing the size of the server. As such, 
 # Branches
 
 ## SIT Teachers
-Training Staff-In-Training 
+You will teach Staff-In-Training everything in general responsibilities.
 
 ## Troop Retention
 
@@ -23,6 +23,7 @@ Training Staff-In-Training
 Create graphics to be used for various purposes. These include:
 
 ## IWRR Developers
+Come up with new servers to recruit from, along with new strategies for recruiting.
 
 ## Monthly Events
 
