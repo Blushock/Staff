@@ -52,12 +52,24 @@ Host events on our Minecraft server. These include...
 ### Treasure Hunt
 
 ## Roblox
+Host various Roblox games. 
+
+### Some good ones
+
+### Some not-so-good ones
+- Bootlegs of existing property
+  - Roblox Club Pengui
+  - Roblox Among Us
+- Anything with too steep a learning curve. Easy to learn, hard to master is allowed, if not encouraged. 
 
 ## Among Us
+Host Among Us. Use Among Us VC, and put the code and region in your ping.
 
 ## Voice Game Division
+Host games and events which have a heavy focus on auditory communication. These include Movie Nights, Karaoke, Kahoot, and any first person shooter.
 
 ## Misc Games
+Host games that don't fit into any other category. Includes a lot of browser games, like Agar.io.
 
 # Branches
 
