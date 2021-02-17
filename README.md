@@ -69,10 +69,10 @@ You will teach Staff-In-Training everything in general responsibilities.
 ## News/Website
 
 ## Graphics
-Create graphics to be used for various purposes. These include:
+Create graphics to be used for various purposes. Photoshop is the most popular tool, but FireAlpaca and paint.net are high quality freee alternatives. GIMP is both free and open source.
 
 ## IWRR Developers
-Come up with new servers to recruit from, along with new strategies for recruiting.
+Come up with new servers to recruit from, along with new strategies for recruiting. You will also test various recruiting lines to see which work and which do not.
 
 ## Monthly Events
 
