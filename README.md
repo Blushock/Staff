@@ -28,7 +28,13 @@ As Staff, you are expected to interact with other people, troops and staff alike
 Recruiting is our primary method of increasing the size of the server. As such, making yourself a standout recruiter will bring great fortune your way.
 
 ### General Tips
-- If they send a friend request to your alt, accept it. Unless you have good reason not to.  
+- If they send a friend request to your alt, accept it. Unless you have good reason not to. 
+- Listening to music while recruiting helps.
+- Make alts regularly. You never know when one or more may be murdered by the Discord algorithm.
+- Be friendly, but use correct spelling, grammar, and capitalization. Professionalism is important. 
+- Don't DM people who have anything but the most nooby role(s).
+- Don't DM people with more than 50 messages.
+  - 100 if things are desperate.  
 
 ### Roblox
 - Mention that we have Roblox events regularly.
@@ -38,8 +44,12 @@ Recruiting is our primary method of increasing the size of the server. As such, 
   - If they ask to friend you on your Discord Alt's DMs, friend them on your Roblox alt. Unless you have reason not to.
 
 ### Minecraft
+- Most recruiting should be done on either MC Main chat or MC looking to play.
+  - MC Earth and MC Dungeons are decent backup options.
 
 ### Other Games
+- Adopt your script for the specific game.
+  - 
 
 
 # Game Divisions
@@ -77,8 +87,19 @@ Host games that don't fit into any other category. Includes a lot of browser gam
 You will teach Staff-In-Training everything in general responsibilities.
 
 ## Troop Retention
+Getting troops into IW is important. So is keeping them in.
 
 ## News/Website
+Write posts about all sorts of topics on our WordPress.
+
+### Time Capsule
+- Write about an event from Club Penguin or in IW.
+  - Ex: My article about recruiting on Club Penguin Online.
+- Be detailed, but also be concise.
+- Interview people when necessary. 
+
+### TOTW/SMOTW
+- Reserved for LITs and above.
 
 ## Graphics
 Create graphics to be used for various purposes. Photoshop is the most popular tool, but FireAlpaca and paint.net are high quality freee alternatives. GIMP is both free and open source.
