@@ -27,6 +27,21 @@ As Staff, you are expected to interact with other people, troops and staff alike
 ## Recruiting
 Recruiting is our primary method of increasing the size of the server. As such, making yourself a standout recruiter will bring great fortune your way.
 
+### General Tips
+- If they send a friend request to your alt, accept it. Unless you have good reason not to.  
+
+### Roblox
+- Mention that we have Roblox events regularly.
+- Roblox Verify is amazing, Islands is very good.
+  - Blox Fruits and Jailbreak are good.
+ - Have a Roblox alt ready specifically for recruiting.
+  - If they ask to friend you on your Discord Alt's DMs, friend them on your Roblox alt. Unless you have reason not to.
+
+### Minecraft
+
+### Other Games
+
+
 # Game Divisions
 
 ## Minecraft
