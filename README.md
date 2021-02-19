@@ -53,18 +53,25 @@ Recruiting is our primary method of increasing the size of the server. As such, 
 
 
 # Game Divisions
+Join these to host events for various games.
 
 ## Minecraft
 Host events on our Minecraft server. These include...
 
 ### Hide and Seek
+- Rules for Hiders
+  - Stay in your spot once the seekers are released.
+  - Only hide within bounds.  
 
 ### Treasure Hunt
+- ???
 
 ## Roblox
 Host various Roblox games. 
 
 ### Some good ones
+- Arsenal
+- Zeppelin Wars
 
 ### Some not-so-good ones
 - Bootlegs of existing property
@@ -108,5 +115,6 @@ Create graphics to be used for various purposes. Photoshop is the most popular t
 Come up with new servers to recruit from, along with new strategies for recruiting. You will also test various recruiting lines to see which work and which do not.
 
 ## Monthly Events
+Come up with both ideas for monthly events, and the specifics for those ideas.
 
 
