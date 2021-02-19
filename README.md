@@ -49,7 +49,7 @@ Recruiting is our primary method of increasing the size of the server. As such, 
 
 ### Other Games
 - Adopt your script for the specific game.
-  - 
+ 
 
 
 # Game Divisions
