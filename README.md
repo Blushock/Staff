@@ -22,7 +22,7 @@ As Staff, you are expected to interact with other people, troops and staff alike
   - Don't spam.
   - Please be nice.
 - Always mute on a timer. As humans, we are naturally forgetful, and doing so on a timer works around this.
-  - Start small, increase for repeat offenders. If it gets bad enough or happens enough times, let a trusted or above know and they will kick or ban
+  - Start small, increase for repeat offenders. If it gets bad enough or happens enough times, let a trusted or above know and they will kick or ban.
 
 ## Recruiting
 Recruiting is our primary method of increasing the size of the server. As such, making yourself a standout recruiter will bring great fortune your way.
@@ -52,6 +52,21 @@ Recruiting is our primary method of increasing the size of the server. As such, 
  
 ## Welcoming
 Welcome new troops into the server, and get them set up with CPR Accounts, if they don't already have them.
+
+# Events
+Responsibilites pertaining to events.
+
+## Hype
+For most events, start hyping an hour before at the earliest. If it is really important, Leaders will tell you to hype it beforehand.
+
+## DM Reminds
+A Trusted Staff or above will send out a list two and a half hours before the event. You can choose to remind people who reacted or Private First Classes who are online.
+
+### Reacts
+Go to the respective event and DM all people, outside of Staff, who match your assigned letter(s) and/or character(s).
+
+### Online DMs
+Go to main chat, and DM all PFC's with your assigned character(s). Use the message provided in the DM Remind list.
 
 # Game Divisions
 Join these to host events for various games. You may only join two divisions, with limited exceptions.
