@@ -50,10 +50,11 @@ Recruiting is our primary method of increasing the size of the server. As such, 
 ### Other Games
 - Adopt your script for the specific game.
  
-
+## Welcoming
+Welcome new troops into the server, and get them set up with CPR Accounts, if they don't already have them.
 
 # Game Divisions
-Join these to host events for various games.
+Join these to host events for various games. You may only join two divisions, with limited exceptions.
 
 ## Minecraft
 Host events on our Minecraft server. These include...
@@ -89,6 +90,7 @@ Host games and events which have a heavy focus on auditory communication. These 
 Host games that don't fit into any other category. Includes a lot of browser games, like Agar.io.
 
 # Branches
+Help out with various tasks in Ice Warriors. Two per person.
 
 ## SIT Teachers
 You will teach Staff-In-Training everything in general responsibilities.
