@@ -54,22 +54,32 @@ Recruiting is our primary method of increasing the size of the server. As such, 
 Welcome new troops into the server, and get them set up with CPR Accounts, if they don't already have them.
 
 ### Explaining IW
-- We play Club Penguin and games like Roblox, MC, and Among Us.
+1. First Message
+2. We play Club Penguin and games like Roblox, MC, and Among Us.
   - Link them to <#799697576495415346> (Role Menu) so they can get game roles.
 
 ### CPR
 Ask if they have an account.
 
 #### Yes 
-- Ask them to send an SC of their Penguin in game.
+1. Ask them to send an SC of their Penguin in game.
   - Make it clear that they will be promoted afterwards.
+2. Tell them about the map, give them this https://cdn.discordapp.com/attachments/757404653112655892/763482622625710170/image0.png
+3. Inform them about events info <#747916935374831646> and games center <#799792981396946994>
+  - Events Info: Where events and their prizes are posted.
+  - Games Center: A schedule of all events for the day.
+4. Final Message
 
 #### No
-1. lain that it's an MMO with Penguins.
+1. Explain that it's an MMO with Penguins.
 2. Making an account allows for easier promotions.
 3. Give them the link https://create.cprewritten.net/ 
 4. Ask them to send an SC of their Penguin in game.
-  a. Make it clear that they will be promoted afterwards.
+  - Make it clear that they will be promoted afterwards.
+5. Inform them about events info <#747916935374831646> and games center <#799792981396946994>
+  - Events Info: Where events and their prizes are posted.
+  - Games Center: A schedule of all events for the day.
+6. Final Message
 
 # Events
 Responsibilites pertaining to events.
