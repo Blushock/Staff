@@ -56,7 +56,7 @@ Welcome new troops into the server, and get them set up with CPR Accounts, if th
 ### Explaining IW
 1. First Message
 2. We play Club Penguin and games like Roblox, MC, and Among Us.
-  - Link them to <#799697576495415346> (Role Menu) so they can get game roles.
+    - Link them to <#799697576495415346> (Role Menu) so they can get game roles.
 
 ### CPR
 Ask if they have an account.
