@@ -66,8 +66,8 @@ Ask if they have an account.
   - Make it clear that they will be promoted afterwards.
 2. Tell them about the map, give them this https://cdn.discordapp.com/attachments/757404653112655892/763482622625710170/image0.png
 3. Inform them about events info <#747916935374831646> and games center <#799792981396946994>
-  - Events Info: Where events and their prizes are posted.
-  - Games Center: A schedule of all events for the day.
+    - Events Info: Where events and their prizes are posted.
+    - Games Center: A schedule of all events for the day.
 4. Final Message
 
 #### No
@@ -77,8 +77,8 @@ Ask if they have an account.
 4. Ask them to send an SC of their Penguin in game.
   - Make it clear that they will be promoted afterwards.
 5. Inform them about events info <#747916935374831646> and games center <#799792981396946994>
-  - Events Info: Where events and their prizes are posted.
-  - Games Center: A schedule of all events for the day.
+    - Events Info: Where events and their prizes are posted.
+    - Games Center: A schedule of all events for the day.
 6. Final Message
 
 # Events
