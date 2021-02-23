@@ -104,37 +104,37 @@ Join these to host events for various games. You may only join two divisions, wi
 - Send your Ping messages to a Trusted Staff of your choice.
   - One for 3 hours before, one for right before.
 
-## Minecraft
+### Minecraft
 Host events on our Minecraft server. These include...
 
-### Hide and Seek
+#### Hide and Seek
 - Rules for Hiders
   - Stay in your spot once the seekers are released.
   - Only hide within bounds.  
 
-### Treasure Hunt
+#### Treasure Hunt
 - ???
 
-## Roblox
+### Roblox
 Host various Roblox games. 
 
 ### Some good ones
 - Arsenal
 - Zeppelin Wars
 
-### Some not-so-good ones
+#### Some not-so-good ones
 - Bootlegs of existing property
   - Roblox Club Penguin
   - Roblox Among Us
 - Anything with too steep a learning curve. Easy to learn, hard to master is allowed, if not encouraged. 
 
-## Among Us
+### Among Us
 Host Among Us. Use Among Us VC, and put the code and region in your ping.
 
-## Voice Game Division
+### Voice Game Division
 Host games and events which have a heavy focus on auditory communication. These include Movie Nights, Karaoke, Kahoot, and any first person shooter.
 
-## Misc Games
+### Misc Games
 Host games that don't fit into any other category. Includes a lot of browser games, like Agar.io.
 
 # Branches
@@ -149,8 +149,15 @@ Getting troops into IW is important. So is keeping them in.
 ## News/Website
 Write posts about all sorts of topics on our WordPress.
 
+### Fan Art Fridays
+Write about fan art that you like.
+- Find pieces in <#680684290840723462>
+  - 5-6 per article.   
+- Interview each person about their inspiration for the piece.
+- Using pieces from Staff and above is ok, but do police yourself.
+
 ### Time Capsule
-- Write about an event from Club Penguin or in IW.
+Write about an event from Club Penguin or in IW.
   - Ex: My article about recruiting on Club Penguin Online.
 - Be detailed, but also be concise.
 - Interview people when necessary. 
