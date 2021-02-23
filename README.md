@@ -119,7 +119,7 @@ Host various Roblox games.
 
 ### Some not-so-good ones
 - Bootlegs of existing property
-  - Roblox Club Pengui
+  - Roblox Club Penguin
   - Roblox Among Us
 - Anything with too steep a learning curve. Easy to learn, hard to master is allowed, if not encouraged. 
 
