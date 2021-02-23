@@ -98,43 +98,41 @@ Go to main chat, and DM all Private First Class's with your assigned character(s
 
 # Game Divisions
 Join these to host events for various games. You may only join two divisions, with limited exceptions.
-
-## General Responsibilities
 - Have them ready to stream 10 minutes before.
 - Send your Ping messages to a Trusted Staff of your choice.
   - One for 3 hours before, one for right before.
 
-### Minecraft
+## Minecraft
 Host events on our Minecraft server. These include...
 
-#### Hide and Seek
+### Hide and Seek
 - Rules for Hiders
   - Stay in your spot once the seekers are released.
   - Only hide within bounds.  
 
-#### Treasure Hunt
+### Treasure Hunt
 - ???
 
-### Roblox
+## Roblox
 Host various Roblox games. 
 
-#### Some good ones
+### Some good ones
 - Arsenal
 - Zeppelin Wars
 
-#### Some not-so-good ones
+### Some not-so-good ones
 - Bootlegs of existing property
   - Roblox Club Penguin
   - Roblox Among Us
 - Anything with too steep a learning curve. Easy to learn, hard to master is allowed, if not encouraged. 
 
-### Among Us
+## Among Us
 Host Among Us. Use Among Us VC, and put the code and region in your ping.
 
-### Voice Game Division
+## Voice Game Division
 Host games and events which have a heavy focus on auditory communication. These include Movie Nights, Karaoke, Kahoot, and any first person shooter.
 
-### Misc Games
+## Misc Games
 Host games that don't fit into any other category. Includes a lot of browser games, like Agar.io.
 
 # Branches
