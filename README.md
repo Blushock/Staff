@@ -94,10 +94,15 @@ A Trusted Staff or above will send out a list two and a half hours before the ev
 Go to the respective event and DM all people, outside of Staff, who match your assigned letter(s) and/or character(s).
 
 ### Online DMs
-Go to main chat, and DM all PFC's with your assigned character(s). Use the message provided in the DM Remind list.
+Go to main chat, and DM all Private First Class's with your assigned character(s). Use the message provided in the DM Remind list.
 
 # Game Divisions
 Join these to host events for various games. You may only join two divisions, with limited exceptions.
+
+## General Responsibilities
+- Have them ready to stream 10 minutes before.
+- Send your Ping messages to a Trusted Staff of your choice.
+  - One for 3 hours before, one for right before.
 
 ## Minecraft
 Host events on our Minecraft server. These include...
