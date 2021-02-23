@@ -53,6 +53,24 @@ Recruiting is our primary method of increasing the size of the server. As such, 
 ## Welcoming
 Welcome new troops into the server, and get them set up with CPR Accounts, if they don't already have them.
 
+### Explaining IW
+- We play Club Penguin and games like Roblox, MC, and Among Us.
+  - Link them to <#799697576495415346> (Role Menu) so they can get game roles.
+
+### CPR
+Ask if they have an account.
+
+#### Yes 
+- Ask them to send an SC of their Penguin in game.
+  - Make it clear that they will be promoted afterwards.
+
+#### No
+1. lain that it's an MMO with Penguins.
+2. Making an account allows for easier promotions.
+3. Give them the link https://create.cprewritten.net/ 
+4. Ask them to send an SC of their Penguin in game.
+  a. Make it clear that they will be promoted afterwards.
+
 # Events
 Responsibilites pertaining to events.
 
